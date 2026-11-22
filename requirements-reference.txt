@@ -1,0 +1,10 @@
+# Isolated Python 3.9 dependencies for importing the pinned upstream codec and actor.
+# Java runs separately under JDK 8.
+gym==0.23.1
+JPype1==1.6.0
+numpy==1.26.4
+pandas==2.3.3
+pillow==11.3.0
+stable-baselines3==1.2.0
+tensorboard==2.21.0
+torch==2.7.1
